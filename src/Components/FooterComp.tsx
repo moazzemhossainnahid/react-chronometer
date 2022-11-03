@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { ReactComponent as IconFacebook } from "./../assets/Images/icon-facebook.svg";
-import { ReactComponent as IconPinterest } from "./../assets/Images/icon-pinterest.svg";
-import { ReactComponent as IconInstagram } from "./../assets/Images/icon-instagram.svg";
+import { ReactComponent as IconFacebook } from "./../Assets/Images/icon-facebook.svg";
+import { ReactComponent as IconPinterest } from "./../Assets/Images/icon-pinterest.svg";
+import { ReactComponent as IconInstagram } from "./../Assets/Images/icon-instagram.svg";
 
 import SocialComp from './SocialComp';
 
